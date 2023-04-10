@@ -1,1 +1,1 @@
-# sprint 0
+# This is the main application file
